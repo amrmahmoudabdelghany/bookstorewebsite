@@ -31,7 +31,7 @@
 	  <form id="customer-form" action="register_customer" method="post">
           
           <jsp:directive.include file = "../common/customer_form.jsp" /> 		
- 
+    
 	</form>
 	</div>
 
