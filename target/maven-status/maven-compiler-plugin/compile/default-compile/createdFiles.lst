@@ -1,0 +1,11 @@
+com\bookstore\entity\Category.class
+com\bookstore\entity\OrderDetail.class
+com\bookstore\entity\Book.class
+com\bookstore\controller\frontend\HomeServlet.class
+com\bookstore\entity\OrderDetailId.class
+com\bookstore\entity\Review.class
+com\bookstore\dao\GenericDAO.class
+com\bookstore\entity\CustomerId.class
+com\bookstore\entity\Users.class
+com\bookstore\entity\Customer.class
+com\bookstore\entity\BookOrder.class
