@@ -1,0 +1,16 @@
+
+
+#docs 
+docs
+
+#ide 
+/.settings
+/.metadata 
+.classpath
+.project
+.log
+
+# production
+build
+target
+
